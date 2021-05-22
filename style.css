@@ -1,0 +1,21 @@
+h1 {
+    font-family: Arial;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: 100;
+    text-align: left;
+    text-decoration: underline;
+    text-indent: 30px;
+    text-transform: lowercase;
+    color: rgba(106, 96, 255,1);
+    word-spacing: 1px;
+}
+a{
+    text-decoration: none;
+}
+.Paragraph{
+    line-height: 40px;
+    font-family: 'Pattaya', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
